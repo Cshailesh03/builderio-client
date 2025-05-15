@@ -136,7 +136,7 @@ export default function Signup2() {
       </div>
 
       <div className="w-[80%] sm:w-[80%] md:w-[40%] xl:w-[30%] mx-auto">
-        <div className="text-center mb-8">
+        <div className="text-center my-15">
           <h1 className="text-[2rem] sm:text-[2.3rem] font-semibold tracking-tight">
             Create an account
           </h1>
