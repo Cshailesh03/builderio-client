@@ -67,7 +67,7 @@ export default function Signup() {
 
       {/* Main Content */}
       <div className="w-[87%] sm:w-[80%] lg:w-[70%] xl:w-[63%] mx-auto">
-        <div className="text-center mb-8">
+        <div className="text-center my-15">
           <h1 className="text-[2rem] sm:text-[2.5rem] md:text-[3.4rem] font-semibold tracking-tight">
             Sign Up
           </h1>

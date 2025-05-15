@@ -48,7 +48,7 @@ export default function Login() {
       </div>
 
       <div className="w-[80%] sm:w-[80%] md:w-[80%] xl:w-[63%] mx-auto">
-        <div className="text-center mb-8">
+        <div className="text-center my-15">
           <h1 className="hidden md:block text-[1.8rem] sm:text-[2.5rem] md:text-[3.4rem] font-medium tracking-tight">
             Login
           </h1>
